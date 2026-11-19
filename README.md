@@ -16,10 +16,8 @@ Version 1.02.
 
 Two shots from the running chart:
 
-
-
 The day view: one server per tab, job names on the left, hours across the top.
-
-
+<img width="1266" height="792" alt="image" src="https://github.com/user-attachments/assets/bb5c721f-187d-427c-87fb-e93b687b0885" />
 
 The same chart zoomed in. Red is a failed job, green is a successful run, pink is a successful job with a failed step.
+<img width="1266" height="793" alt="image" src="https://github.com/user-attachments/assets/b7b2d171-e596-4b66-86b6-3980bc852a6d" />
